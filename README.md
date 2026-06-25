@@ -22,7 +22,7 @@ Trabalho com construção de sistemas onde arquitetura, organização de código
 
 Backend
 
-C# / .NET (7+)
+C# / .NET (8+)
 ASP.NET Core Web API
 Entity Framework Core
 SQL Server / PostgreSQL
