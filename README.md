@@ -1,11 +1,15 @@
 <h1 align="center">Themystocles</h1>
 
-<h3 align="center">
-Full Stack Software Engineer • .NET • React • Clean Architecture • DDD
-</h3>
+<p align="center">
+  <strong>Full Stack Software Engineer</strong>
+</p>
 
 <p align="center">
-Building scalable systems with clean and maintainable architecture
+  .NET • React • TypeScript • Clean Architecture • DDD
+</p>
+
+<p align="center">
+  Building scalable systems with strong architectural foundations
 </p>
 
 👨‍💻 Themystocles — Software Engineer (Full Stack | .NET & React)
