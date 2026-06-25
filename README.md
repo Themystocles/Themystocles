@@ -1,3 +1,11 @@
+const themystocles = {
+  role: "Full Stack Software Engineer",
+  stack: ["C#", ".NET", "React", "TypeScript"],
+  architecture: ["Clean Architecture", "DDD"],
+  focus: "Scalable systems & backend design",
+  mindset: "Build systems, not just features"
+};
+
 👨‍💻 Themystocles — Software Engineer (Full Stack | .NET & React)
 
 Desenvolvedor Full Stack com foco em projetos escaláveis e bem estruturados, atuando no desenvolvimento de aplicações ponta a ponta com .NET no backend e React no frontend.
