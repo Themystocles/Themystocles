@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  Building scalable systems with strong architectural foundations
+  ─────────────────────────────
+</p>
+
+<p align="center">
+  Designing and building scalable, maintainable software systems
 </p>
 
 👨‍💻 Themystocles — Software Engineer (Full Stack | .NET & React)
