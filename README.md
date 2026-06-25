@@ -1,10 +1,12 @@
-const themystocles = {
-  role: "Full Stack Software Engineer",
-  stack: ["C#", ".NET", "React", "TypeScript"],
-  architecture: ["Clean Architecture", "DDD"],
-  focus: "Scalable systems & backend design",
-  mindset: "Build systems, not just features"
-};
+<h1 align="center">Themystocles</h1>
+
+<h3 align="center">
+Full Stack Software Engineer • .NET • React • Clean Architecture • DDD
+</h3>
+
+<p align="center">
+Building scalable systems with clean and maintainable architecture
+</p>
 
 👨‍💻 Themystocles — Software Engineer (Full Stack | .NET & React)
 
