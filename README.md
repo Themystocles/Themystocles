@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;.NET+%7C+React+%7C+TypeScript+%7C+Clean+Architecture;Building+scalable+and+maintainable+systems" />
 </p>
 
-👨‍💻 Themystocles — Software Engineer (Full Stack | .NET & React)
+Themystocles — Software Engineer (Full Stack | .NET & React)
 
 Desenvolvedor Full Stack com foco em projetos escaláveis e bem estruturados, atuando no desenvolvimento de aplicações ponta a ponta com .NET no backend e React no frontend.
 
