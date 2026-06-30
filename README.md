@@ -55,7 +55,7 @@ estruturação de APIs e contratos (DTOs e validações)
 modelagem de domínio e separação de responsabilidades
 escolha de abordagens técnicas conforme complexidade do sistema
 padronização de estrutura de código para manutenção e escalabilidade
-🏗️ Experiência prática
+ Experiência prática
 Desenvolvimento de aplicações Full Stack com React + .NET
 Construção de APIs REST com autenticação JWT
 Modelagem de domínios com regras de negócio estruturadas
@@ -65,7 +65,7 @@ Implementação de padrões como Repository e Service Layer
 Mapeamento de DTOs e separação entre camadas da aplicação
 Estruturação de projetos com foco em escalabilidade e manutenção
 Uso de Docker para padronização de ambientes
-🧱 Princípios técnicos
+ Princípios técnicos
 Arquitetura como base para evolução do sistema
 Separação clara entre domínio, aplicação e infraestrutura
 Decisões técnicas baseadas no contexto do problema
